@@ -3,4 +3,4 @@ A text-based dungeon-adventure game with real-time elements for game losing situ
 
 Created for a Java programming basics course.
 
-All major components are divided into packages.
+Documentation for classes can be found in "docs"
